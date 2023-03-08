@@ -1,1 +1,1 @@
-# -Python-Project-FRIDAY
+# Python-Project-FRIDAY
